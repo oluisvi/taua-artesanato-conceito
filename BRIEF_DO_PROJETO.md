@@ -39,12 +39,8 @@ Todos são mobile-first e trocáveis na mesma página. Incluem catálogo demonst
 
 ## Mensagem de proposta — rascunho, não enviado
 
-Oi! Obrigado por explicar como vocês atendem hoje. Achei muito forte a ideia da Tauá de reunir artesanato e presentes com referências da Bahia e do Nordeste. Na pesquisa encontrei também uma página da Tauá no Wix, com a história da curadoria e informações da loja; não sei se ela ainda está ativa ou se vocês consideram essa a página oficial atual.
+Oi! Obrigado por responder. Achei muito bacana a curadoria de artesanato e presentes com referências da Bahia e do Nordeste. Sou o Luis, da ServAgency, uma agência de tecnologia, e preparei três ideias de site para contar as histórias por trás das peças, organizar a curadoria por matéria e facilitar consultas sobre disponibilidade, mantendo Instagram e WhatsApp como canais de conversa e compra.
 
-Sou o Luis, da ServAgency, uma agência de tecnologia. Preparei um conceito de vitrine digital para mostrar como a história da curadoria e as peças poderiam ficar mais fáceis de explorar, com filtros por matéria e um caminho direto para consultar disponibilidade e comprar pelos canais que vocês já usam. A proposta é valorizar cada trabalho e ajudar quem conheceu a Tauá no Instagram ou na loja a reencontrar as peças depois.
-
-O protótipo tem três caminhos visuais, que podem ser adaptados às preferências de vocês. As imagens e peças são ilustrativas; numa versão real entrariam o acervo, as fotos e as informações aprovadas pela Tauá. Aqui está: [inserir link do Pages após deploy].
-
-Qual direção visual combina mais com a Tauá? E você é a pessoa responsável por decidir sobre essa página ou pode me indicar o melhor contato? Também queria confirmar se o Wix que encontrei ainda é usado por vocês.
+Encontrei também uma página no Wix associada ao @tauarte, então fiquei na dúvida: ela ainda está ativa ou é uma página antiga? O conceito está aqui: https://oluisvi.github.io/taua-artesanato-conceito/. As peças e imagens são ilustrativas; uma versão final usaria fotos e informações aprovadas pela Tauá. Qual direção combina mais com vocês? E você decide essa parte ou posso falar com a pessoa responsável?
 
 Nenhuma mensagem foi enviada.
